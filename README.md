@@ -3,7 +3,7 @@
 this is some content for V1 
 
 
-dci-student@dcistudent-ThinkPad-L15-Gen-1:~/Desktop/DCI/BDL/markdown-exercise$ git status 
+[dci-student@dcistudent-ThinkPad-L15-Gen-1:~/Desktop/DCI/BDL/markdown-exercise$ git status 
 On branch master
 Your branch is up to date with 'origin/master'.
 
@@ -71,4 +71,4 @@ remote:
 To github.com:EugeneeT/markdown-excercise.git
  * [new branch]      contentV1 -> contentV1
 branch 'contentV1' set up to track 'origin/contentV1'.
-dci-student@dcistudent-ThinkPad-L15-Gen-1:~/Desktop/DCI/BDL/markdown-exercise$ 
+dci-student@dcistudent-ThinkPad-L15-Gen-1:~/Desktop/DCI/BDL/markdown-exercise$ ]
